@@ -202,14 +202,15 @@ footer .content {
         padding: 10px;
     }
     .buttons a {
-        font-size: .6rem;
+        font-size: .5rem;
         padding: 10px;
     }
     .about h1{
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     .home-p1{
-        height: 160vh;
+        height: 170vh;
+        margin: 20px;
     }
     .home-p1 .image {
         margin: 20px;
@@ -221,14 +222,13 @@ footer .content {
     }
 
     .home-p1 .content .cards .card {
-        width: 300px;
+        width: 250px;
         padding: 20px;
     }
 
     .cardimage {
         max-width: 300px;
     }
-
     .cardcontent h2 {
         font-size: 1rem;
     }
@@ -245,7 +245,9 @@ footer .content {
         font-size: 0.5rem;
 
     }
-
+    footer .content{
+        margin: 20px;
+    }
 
 }
 
